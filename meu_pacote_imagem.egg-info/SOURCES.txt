@@ -1,0 +1,8 @@
+README.md
+pyproject.toml
+setup.py
+meu_pacote_imagem.egg-info/PKG-INFO
+meu_pacote_imagem.egg-info/SOURCES.txt
+meu_pacote_imagem.egg-info/dependency_links.txt
+meu_pacote_imagem.egg-info/requires.txt
+meu_pacote_imagem.egg-info/top_level.txt

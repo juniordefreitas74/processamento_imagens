@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="meu-pacote-imagem",  # Nome único (teste)
+    name="pacote-TratImagem-Junior-de-freitas",  # Nome único (teste)
     version="0.1.0",
     author="Junior de |Freitas",
     author_email="juniordefreitas1@gmail.com",
